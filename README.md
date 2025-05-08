@@ -6,4 +6,4 @@ the first one to be writedn the git
 
 # next sub folder
 
-the git folder is the best one
+the git folder is the best one on one
