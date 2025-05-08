@@ -4,6 +4,6 @@ this is a full project of visions ai that uses natural processing languages, and
 # sub folder
 the first one to be writedn the git 
 
-# next sub folder
+# sub new project i have
 
-the git folder is the best one on one
+ha ha now i am here
